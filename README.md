@@ -1,10 +1,10 @@
 # Vigenere Cipher Decryption
 
-Compile: g++ -std=c++11 Vigenere.cpp
+Compile: `g++ -std=c++11 Vigenere.cpp`
 
-Run: ./a.out
+Run: `./a.out`
 
-The ciphertext is in **vig2.txt**
+The ciphertext is in *vig2.txt*
 
 ## Decryption Process:
 
